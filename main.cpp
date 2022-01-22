@@ -1,4 +1,5 @@
-/*GUESS GAME...........................
+/*GUESSING GAME...........................
+........................................GUESS THE SECRET NUMBER............................
 #include <iostream>
 using namespace std;
 int main()
@@ -28,7 +29,7 @@ int main()
     return 0;
 }*/
 
- /* MENUE FOR THE GAME............................
+ ........................................................................../* MENUE FOR THE GAME............................
  #include <iostream>
 using namespace std;
 int main()
@@ -55,7 +56,7 @@ int main()
 
 */
 
-// complete guess game setup.......................................
+// ............................................................complete guess game setup.......................................
 
 #include <iostream>
 using namespace std;
